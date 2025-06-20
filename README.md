@@ -29,5 +29,4 @@ A simple React-based application that allows users to **add** and **view items**
 - 🧠 React Hooks (`useState`)
 - 🎨 Responsive Design
 
-## 📂 Folder Structure
 
